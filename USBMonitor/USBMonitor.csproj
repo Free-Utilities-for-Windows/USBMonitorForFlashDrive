@@ -8,6 +8,8 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="MailKit" Version="4.3.0" />
+        <PackageReference Include="MimeKit" Version="4.3.0" />
         <PackageReference Include="OfficeOpenXml.Extension.AspNetCore" Version="1.0.0" />
         <PackageReference Include="System.Management" Version="7.0.2" />
     </ItemGroup>

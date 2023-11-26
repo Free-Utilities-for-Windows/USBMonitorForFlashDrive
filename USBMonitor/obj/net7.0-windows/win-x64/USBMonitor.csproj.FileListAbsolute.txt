@@ -214,3 +214,6 @@ C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\U
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\obj\net7.0-windows\win-x64\USBMonitor.pdb
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\obj\net7.0-windows\win-x64\USBMonitor.genruntimeconfig.cache
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\obj\net7.0-windows\win-x64\ref\USBMonitor.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\net7.0-windows\win-x64\BouncyCastle.Cryptography.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\net7.0-windows\win-x64\MailKit.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\net7.0-windows\win-x64\MimeKit.dll

@@ -25,7 +25,6 @@ C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\U
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
-C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\obj\Debug\net7.0-windows\USBMonitor.csproj.AssemblyReference.cache
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\obj\Debug\net7.0-windows\USBMonitor.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\obj\Debug\net7.0-windows\USBMonitor.AssemblyInfoInputs.cache
@@ -37,3 +36,7 @@ C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\U
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\obj\Debug\net7.0-windows\USBMonitor.pdb
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\obj\Debug\net7.0-windows\USBMonitor.genruntimeconfig.cache
 C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\obj\Debug\net7.0-windows\ref\USBMonitor.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\Debug\net7.0-windows\MailKit.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\Debug\net7.0-windows\MimeKit.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll

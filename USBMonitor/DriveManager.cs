@@ -17,7 +17,7 @@ public class DriveManager
     private async void OnDriveInserted(object sender, DriveEventArgs e)
     {
         Console.WriteLine($"Drive {e.DriveName} was inserted");
-
+        await Task.Delay(TimeSpan.FromSeconds(2));
         try
         {
             DirectoryScanner scanner = new DirectoryScanner();
@@ -35,8 +35,14 @@ public class DriveManager
             Console.WriteLine("Copying files...");
             var (textFilesCount, imageFilesCount) = await Task.Run(() => exporter.CopyFiles(folders, deviceFolderPath));
             Console.WriteLine($"Copied {textFilesCount} text files and {imageFilesCount} image files.");
+            
+            Console.WriteLine("Archiving folder...");
+            ZipArchive.CreateZipArchive(deviceFolderPath, deviceFolderPath + ".zip");
 
             Console.WriteLine("Done.");
+            
+            //var emailSender = new EmailSender("smtp-mail.outlook.com", 587, "your-email@outlook.com", "Your Name", "your-password");
+            //await emailSender.SendEmailAsync("Recipient Name", "recipient-email@example.com", "USB Monitor Report", "The USB drive has been processed.", deviceFolderPath + ".zip");
         }
         catch (UnauthorizedAccessException ex)
         {

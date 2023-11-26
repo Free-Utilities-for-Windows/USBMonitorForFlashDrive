@@ -47,6 +47,14 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "OfficeOpenXml.Extension.AspNetCore": {
               "target": "Package",
               "version": "[1.0.0, )"
