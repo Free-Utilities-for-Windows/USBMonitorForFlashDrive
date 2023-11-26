@@ -1,0 +1,2 @@
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\net7.0-windows\win-x64\publish\USBMonitor.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\USBMonitorForFlashDrive\USBMonitor\bin\net7.0-windows\win-x64\publish\USBMonitor.exe
