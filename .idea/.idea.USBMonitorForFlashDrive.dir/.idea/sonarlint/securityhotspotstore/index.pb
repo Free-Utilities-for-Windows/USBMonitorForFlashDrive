@@ -98,3 +98,9 @@ j
 :USBMonitor/obj/net7.0-windows/win-x64/USBMonitor.deps.json,8\7\871ee84b7c78e70de43ddbc4879be031f25a3013
 L
 USBMonitor/FolderExporter.cs,6\5\6523d38447e5afa8598afed8ea632162943364e7
+H
+USBMonitor/ZipArchive.cs,1\6\16825407ccbaf2ef78beb736f56f9c7827293522
+I
+USBMonitor/EmailSender.cs,f\b\fb08c26841c12705fc03d194f55d4ce39762da44
+7
+LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859
